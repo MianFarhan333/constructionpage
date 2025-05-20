@@ -1,0 +1,625 @@
+@media (max-width:1300px) {
+    .footer-block{
+        width: 1000px;
+        left: 10%;
+    }
+    .footer-block1{
+        width: 1000px;
+        left: 10%;
+    }
+}
+@media (max-width:1200px) {
+    .sec-1cont {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: max-content;
+        justify-content: center;
+    }
+    .sec-5cir{
+        width: 700px;
+        height: 700px;
+    }
+    .sec-5block{
+        left: 50%;
+        top: 10%;
+    }
+    .sec-5cont{
+        width: 850px;
+        left: 13%;
+    }
+     .footer-block{
+        width: 900px;
+        left: 10%;
+    }
+    .footer-block1{
+        width: 900px;
+        left: 10%;
+    }
+}
+
+@media (max-width:1100px) {
+
+    .main-cir1,
+    .main-cir2,
+    .main-cir3 {
+        width: 500px;
+        height: 500px;
+    }
+
+    .cir-h1 {
+        font-size: 40px;
+    }
+
+    .cir-h2 {
+        width: 300px;
+        font-size: 18px;
+    }
+
+    .sec-2cir {
+        width: 400px;
+        height: 400px;
+        left: 15%;
+        top: 30%;
+    }
+
+    .sec-2cir1 {
+        width: 400px;
+        height: 400px;
+        left: 55%;
+        top: 20%;
+    }
+
+    .sec-2cir2 {
+        width: 400px;
+        height: 400px;
+        left: 13%;
+        top: 80%;
+    }
+
+    .sec-2cir3 {
+        width: 400px;
+        height: 400px;
+        left: 55%;
+        top: 72%;
+    }
+
+    .sec-2circle {
+        width: 500px;
+        height: 500px;
+        left: 30%;
+        top: 49%;
+    }
+      .footer-block{
+        flex-direction: column;
+        align-items: center;
+        width: 200px;
+        left: 40%;
+        top: 3%;
+    }
+    .footer-block1{
+        width: 500px;
+        left: 25%;
+        top: 55%;
+        flex-direction: column;
+    }
+    .footer{
+        height: 250vh;
+    }
+    .footer-div1,.footer-div2{
+        width: 100%;
+    }
+}
+
+@media (max-width:1000px) {
+    .main-cir1 {
+        left: 20%;
+        top: 10%;
+        width: 550px;
+        height: 550px;
+    }
+
+    .main-cir2 {
+        left: 40%;
+        top: 50%;
+    }
+    .sec-3cont{
+        width: 800px;
+    }
+    .sec-4cir1{
+        width: 400px;
+        height: 400px;
+    }
+    .sec-4cir2{
+        width: 400px;
+        height: 400px;
+    }
+    .sec-4cir3{
+        width: 400px;
+        height: 400px;
+    }
+      .sec-5cir{
+        width: 700px;
+        height: 700px;
+        left: 15%;
+    }
+    .sec-5block{
+        left: 30%;
+        top: 4%;
+    }
+    .sec-5cont{
+       flex-direction: column;
+       align-items: center;
+       height: max-content;
+       width: 600px;
+       top: 50%;
+       left: 18%;
+    }
+    .sec-5box{
+        margin-top: 20px;
+    }
+    .sec-5{
+        height: 270vh;
+    }
+
+   
+}
+
+@media (max-width:900px) {
+    .sec-2cir {
+        width: 400px;
+        height: 400px;
+        left: 10%;
+        top: 40%;
+    }
+
+    .sec-2cir1 {
+        width: 400px;
+        height: 400px;
+        left: 40%;
+        top: 20%;
+    }
+
+    .sec-2cir2 {
+        width: 400px;
+        height: 400px;
+        left: 13%;
+        top: 80%;
+    }
+
+    .sec-2cir3 {
+        width: 400px;
+        height: 400px;
+        left: 40%;
+        top: 64%;
+    }
+
+    .sec-2circle {
+        width: 500px;
+        height: 500px;
+        left: 27%;
+        top: 49%;
+    }
+    .sec-3cont{
+        width: 700px;
+    }
+    .sec-3block{
+        width: 700px;
+    }
+     .sec-4cir1{
+        width: 400px;
+        height: 400px;
+        left: 17%;
+        top: 4%;
+    }
+    .sec-4cir2{
+        width: 400px;
+        height: 400px;
+          left: 30%;
+        top: 18%;
+    }
+    .sec-4cir3{
+        width: 400px;
+        height: 400px;
+           left: 25%;
+        top: 40%;
+    }
+    .sec-4block{
+        left: 20%;
+        top: 60%;
+    }
+        .sec-5cir{
+        width: 500px;
+        height: 500px;
+        left: 15%;
+    }
+    .sec-5block{
+        width: 350px;
+        left: 25%;
+        top: 4%;
+    }
+    .sec-5cont{
+       width: 300px;
+       top: 43%;
+       left: 25%;
+    }
+   
+}
+
+@media (max-width:800px) {
+    .main-cir1 {
+        width: 450px;
+        height: 450px;
+        left: 17%;
+
+    }
+
+    .main-cont {
+        /* height: 100vh; */
+    }
+
+    .main-cir2 {
+        width: 550px;
+        height: 550px;
+        left: 32%;
+    }
+
+    .main-cir3 {
+        display: none;
+    }
+
+    .sec-2 {
+        height: 300vh;
+    }
+     .sec-3cont{
+        width: 600px;
+    }
+    .sec-3block{
+        width: 600px;
+    }
+    .sec-3box{
+        flex-direction: column;
+        /* justify-content: space-between; */
+        align-items: center;
+        height: max-content;
+        
+    }
+    .sec-3h1{
+        font-size: 40px;
+    }
+
+}
+
+@media (max-width:700px) {
+    .sep-div {
+        flex-direction: column;
+        align-items: center;
+        height: max-content;
+        width: 250px;
+    }
+
+    .sec-2 {
+        height: 350vh;
+    }
+
+    .sec-2cir {
+        width: 400px;
+        height: 400px;
+        left: 17%;
+        top: 43%;
+    }
+
+    .sec-2cir1 {
+        width: 400px;
+        height: 400px;
+        left: 17%;
+        top: 28%;
+    }
+
+    .sec-2cir2 {
+        width: 400px;
+        height: 400px;
+        left: 17%;
+        top: 82%;
+    }
+
+    .sec-2cir3 {
+        width: 400px;
+        height: 400px;
+        left: 17%;
+        top: 67%;
+    }
+
+    .sec-2circle {
+        width: 500px;
+        height: 500px;
+        left: 9%;
+        top: 54%;
+    }
+      .sec-3cont{
+        width: 500px;
+    }
+    .sec-3block{
+        width: 500px;
+    }
+    .footer-block1{
+        width: 400px;
+        left: 15%;
+    }
+
+}
+
+@media (max-width:600px) {
+    .main-cir1 {
+        width: 350px;
+        height: 350px;
+        left: 20%;
+    }
+
+    .main-cir2 {
+        width: 400px;
+        height: 400px;
+        left: 42%;
+        top: 48%;
+    }
+
+    .cir-h1 {
+        font-size: 30px;
+    }
+
+    .sec-2cir {
+        width: 350px;
+        height: 350px;
+        left: 17%;
+        top: 44%;
+    }
+
+    .sec-2cir1 {
+        width: 350px;
+        height: 350px;
+        left: 17%;
+        top: 31%;
+    }
+
+    .sec-2cir2 {
+        width: 350px;
+        height: 350px;
+        left: 17%;
+        top: 80%;
+    }
+
+    .sec-2cir3 {
+        width: 350px;
+        height: 350px;
+        left: 17%;
+        top: 64%;
+    }
+
+    .sec-2circle {
+        width: 400px;
+        height: 400px;
+        left: 12%;
+        top: 54%;
+    }
+
+    .sec-2h1 {
+        font-size: 30px;
+    }
+
+    .sec-2h2 {
+        width: 400px;
+    }
+      .sec-4cir1{
+        width: 300px;
+        height: 300px;
+        left: 12%;
+        top: 4%;
+    }
+    .sec-4cir2{
+        width: 300px;
+        height: 300px;
+          left: 22%;
+        top: 18%;
+    }
+    .sec-4cir3{
+        width: 300px;
+        height: 300px;
+           left: 11%;
+        top: 37%;
+    }
+    .sec-4block{
+        width: 350px;
+        left: 10%;
+        top: 62%;
+    }
+
+         .sec-5cir{
+        width: 400px;
+        height: 400px;
+        left: 10%;
+    }
+    .sec-5block{
+        width: 350px;
+        left: 17%;
+        top: 4%;
+    }
+    .sec-5cont{
+       width: 300px;
+       top: 35%;
+       left: 23%;
+    }
+    .sec-5{
+        height: 230vh;
+    }
+}
+
+@media (max-width:500px) {
+    .main-cir1 {
+        width: 300px;
+        height: 300px;
+        top: 8%;
+        left: 18%;
+    }
+
+    .main-cir2 {
+        width: 350px;
+        height: 350px;
+        top: 40%;
+        left: 45%;
+    }
+
+    .cir-h1 {
+        font-size: 22px;
+    }
+
+    .sec-2cir {
+        width: 280px;
+        height: 280px;
+        left: 7%;
+        top: 50%;
+    }
+
+    .sec-2cir1 {
+        width: 280px;
+        height: 280px;
+        left: 7%;
+        top: 36%;
+    }
+
+    .sec-2cir2 {
+        width: 280px;
+        height: 280px;
+        left: 7%;
+        top: 84%;
+    }
+
+    .sec-2cir3 {
+        width: 280px;
+        height: 280px;
+        left: 7%;
+        top: 69%;
+    }
+
+    .sec-2circle {
+        width: 300px;
+        height: 300px;
+        left: 3%;
+        top: 59%;
+    }
+    .sec-2{
+        height: 250vh;
+    }
+    .sec-2h1{
+        font-size: 20px;
+    }
+    .sec-2h2{
+        font-size: 15px;
+        width: 270px;
+    }
+       .sec-3cont{
+        width: 400px;
+    }
+    .sec-3block{
+        width: 400px;
+    }
+    .sec-3h1{
+        font-size: 30px;
+    }
+         .sec-5cir{
+        width: 300px;
+        height: 300px;
+        left: 2%;
+        top: 23%;
+    }
+    .sec-5block{
+        width: 280px;
+        left: 6%;
+        top: 3%;
+    }
+    .sec-5cont{
+       width: 250px;
+       top: 35%;
+       left: 13%;
+    }
+    .sec-5{
+        height: 290vh;
+    }
+    .footer-block{
+        left:17%;
+    }
+    .footer{
+        height: 350vh;
+    }
+    .footer-block1{
+        width: 280px;
+        left: 5%;
+    }
+}
+
+@media (max-width:400px) {
+    .main-cir1 {
+        width: 250px;
+        height: 250px;
+        left: 12%;
+    }
+
+    .main-cir2 {
+        width: 250px;
+        height: 250px;
+        left: 60%;
+    }
+
+    .cir-h1 {
+        font-size: 15px;
+    }
+
+    .cir-h2 {
+        font-size: 10px;
+        width: 200px;
+    }
+
+    .cir-h3 {
+        font-size: 20px;
+    }
+
+    .read-btn {
+        width: 120px;
+        height: 30px;
+    }
+        .sec-3cont{
+        width: 300px;
+    }
+    .sec-3block{
+        width: 300px;
+    }
+      .sec-4cir1{
+        width: 250px;
+        height: 250px;
+        left: 9%;
+        top: 4%;
+    }
+    .sec-4cir2{
+        width: 250px;
+        height: 250px;
+          left: 16%;
+        top: 18%;
+    }
+    .sec-4cir3{
+        width: 250px;
+        height: 250px;
+           left: 11%;
+        top: 34%;
+    }
+    .sec-4block{
+        width: 280px;
+        left: 7%;
+        top: 62%;
+    }
+    .sec-4h1{
+        font-size: 40px;
+    }
+    .sec-4{
+        height: 230vh;
+    }
+
+}
